@@ -1,0 +1,15 @@
+Patient: Rajesh Kumar Reddy
+DOB: 03/14/1978    MRN: 00482917
+Phone: (555) 201-7788    Email: rajesh.reddy@example.com
+Address: 42 Lakeview Road, Hyderabad 500034
+
+Visit date: 09/12/2026
+Referring physician: Dr. Anita Sharma, Sunrise Medical Center
+
+Chief complaint: Persistent cough and mild shortness of breath for two weeks.
+
+History: Mr. Reddy is a 48-year-old man with type 2 diabetes and hypertension. He reports his wife, Lakshmi Reddy, called the clinic on 09/10/2026 from 555-303-4411 to request an earlier appointment. SSN on file: 123-45-6789.
+
+Assessment: Likely acute bronchitis. Chest X-ray ordered. Continue metformin and lisinopril.
+
+Plan: Follow up in one week. Results will be sent to rajesh.reddy@example.com.
