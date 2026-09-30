@@ -1,0 +1,8 @@
+Flask>=3.0
+numpy>=1.26
+tokenizers>=0.19
+huggingface_hub>=0.23
+# Inference runtime: install ONE of these (see README)
+#   Snapdragon-powered Windows PC (NPU):  pip install onnxruntime-qnn
+#   Any other machine (CPU):              pip install onnxruntime
+onnxruntime>=1.18
